@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/framer-motion/static/css/main.60c25e8a.chunk.css",
+    "main.js": "/framer-motion/static/js/main.ad737b7f.chunk.js",
+    "main.js.map": "/framer-motion/static/js/main.ad737b7f.chunk.js.map",
+    "runtime-main.js": "/framer-motion/static/js/runtime-main.f2361a76.js",
+    "runtime-main.js.map": "/framer-motion/static/js/runtime-main.f2361a76.js.map",
+    "static/js/2.ba74b42b.chunk.js": "/framer-motion/static/js/2.ba74b42b.chunk.js",
+    "static/js/2.ba74b42b.chunk.js.map": "/framer-motion/static/js/2.ba74b42b.chunk.js.map",
+    "index.html": "/framer-motion/index.html",
+    "precache-manifest.22942af5bb40672e5ad21e545a93f278.js": "/framer-motion/precache-manifest.22942af5bb40672e5ad21e545a93f278.js",
+    "service-worker.js": "/framer-motion/service-worker.js",
+    "static/css/main.60c25e8a.chunk.css.map": "/framer-motion/static/css/main.60c25e8a.chunk.css.map",
+    "static/js/2.ba74b42b.chunk.js.LICENSE.txt": "/framer-motion/static/js/2.ba74b42b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2361a76.js",
+    "static/js/2.ba74b42b.chunk.js",
+    "static/css/main.60c25e8a.chunk.css",
+    "static/js/main.ad737b7f.chunk.js"
+  ]
+}
